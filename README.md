@@ -2,7 +2,7 @@
 -When TARS has a 100% safety setting
 
 Hello! I assume if you're looking at this page, you're either lurking through my projects (I'm flattered) or you're here to grade my AA548 Final Project entitled: Convex Methods for Spacecraft Rendezvous and Docking.
-This work demonstrates how a spacecraft rendezvous and docking, a problem with non-linear dynamics and non-convex constraints can be solved using the Clohessy-Wiltshire relative dynamics formulation as well as sequential convex programming.
+This work demonstrates how spacecraft rendezvous and docking, a problem with non-linear dynamics and non-convex safety constraints can be solved using the Clohessy-Wiltshire relative dynamics formulation as well as sequential convex programming.
 
 If you would like to run this simulation, you will need to download jax, numpy, cvxpy, plotly, and tqdm.
 
