@@ -8,6 +8,6 @@ If you would like to run this simulation, you will need to download jax, numpy, 
 
 Simply hit run all cells in "simulation.ipynb" to run the simulation and see the plots and visualization. 
 
-Note that the 3d model for the Dragon capsule was downloaded off of [thingiverse](https://www.thingiverse.com/thing:4207259) and is not my own.
+Note that the 3d model for the Dragon capsule was downloaded from [thingiverse](https://www.thingiverse.com/thing:4207259) and is not my own.
 
-If you want to see the 3D animations of the rendezvous and docking, you'll need to download the USDZ file for yourself from [NASA's website]([https://website-name.com](https://science.nasa.gov/resource/international-space-station-3d-model/) and then convert it to an STL.
+If you want to see the 3D animations of the rendezvous and docking, you'll need to download the USDZ file for yourself from [NASA's website](https://science.nasa.gov/resource/international-space-station-3d-model/) and then convert it to an STL.
