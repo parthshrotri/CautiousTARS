@@ -10,4 +10,4 @@ Simply hit run all cells in "simulation.ipynb" to run the simulation and see the
 
 Note that the 3d model for the Dragon capsule was downloaded off of [thingiverse](https://www.thingiverse.com/thing:4207259) and is not my own.
 
-If you want to see the 3D animations of the rendezvous and docking, you'll need to download the USDZ file for yourself from [NASA's website]([https://website-name.com](https://science.nasa.gov/resource/international-space-station-3d-model/)) and then convert it to an STL.
+If you want to see the 3D animations of the rendezvous and docking, you'll need to download the USDZ file for yourself from [NASA's website]([https://website-name.com](https://science.nasa.gov/resource/international-space-station-3d-model/) and then convert it to an STL.
